@@ -1,5 +1,5 @@
 {
-    "name": "samsonasik/expressive-redirect-handler",
+    "name": "Angra974/expressive-redirect-handler",
     "type": "library",
     "description": "Expressive middleware for URL Redirect handling",
     "keywords": [
@@ -10,9 +10,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Abdul Malik Ikhsan",
-            "email": "samsonasik@gmail.com",
-            "homepage": "http://samsonasik.wordpress.com",
+            "name": "Parlier Thierry modified from Abdul Malik Ikhsan repo",
+            "email": "mrnemesys@msn.com",
+            "homepage": "",
             "role": "Developer"
         }
     ],
